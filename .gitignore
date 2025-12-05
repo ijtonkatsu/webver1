@@ -62,6 +62,9 @@ build/
 *.min.js.map
 *.min.css.map
 
+# GitHub Pages build scripts
+generate-static-html.php
+
 # PHP specific
 *.php~
 *.php.bak
