@@ -1,0 +1,45 @@
+# Git
+.git
+.gitignore
+
+# Composer
+/vendor
+composer.phar
+composer-setup.php
+composer.lock
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Build files
+node_modules/
+dist/
+build/
+
+# GitHub
+.github/
+
+# Documentation
+*.md
+!README.md
+
+# Helm
+helmfile.yaml
+helmfile.d/
+
