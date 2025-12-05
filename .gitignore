@@ -76,6 +76,5 @@ build/
 # user_uploads/
 
 # Git
-.git/
 .gitignore.bak
 
